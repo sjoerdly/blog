@@ -38,3 +38,7 @@ The Scrum roles are about accountability of empiricism in certain distinct areas
 </ul>
 <h1>Scrum without Empiricism is not Effective</h1>
 There is no sense in doing Scrum without understanding Empiricism. Does your team get this? Your Product Owner? Your Development Team members? Does your Scrum Master know what Empiricism entails and how it is fundamental to continuous improvement in Scrum? If not, discuss this (for instance in a Sprint Retrospective) with your Scrum Team and build from there.
+
+&nbsp;
+
+<em>This post is under the 'published draft' category. This category is for sharing stuff earlier on and preventing myself from writer/publish block (perfect is the enemy of done). The original idea for this post came from a Twitter discussion with some awesome Agile &amp; Scrum practitioners. <a href="https://twitter.com/sjoerdly/status/1000319441161347072">See Sjoerdly's tweet on Empiricism in Scrum</a> and check out the related content on Twitter. Please let me know your thoughts, reactions or questions to this content and help make it better. I love to learn together!</em>

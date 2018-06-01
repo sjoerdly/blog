@@ -23,8 +23,8 @@ The Scrum artifacts should serve transparency.
 <h2>Scrum events</h2>
 The Scrum events are for inspection &amp; adaptation of the artifacts &amp; the process itself.
 <ul>
- 	<li>Sprint;</li>
- 	<li>Sprint Planning;</li>
+ 	<li>Sprint - consistent length of this timebox provides a steady rhythm and its scope (made transparent in the Sprint Backlog) is subject to inspection &amp; adaptation whenever needed;</li>
+ 	<li>Sprint Planning - Scrum Team inspects the Product Backlog, the latest Product Increment, projected Development Team capacity &amp; past performance.</li>
  	<li>Daily Scrum;</li>
  	<li>Sprint Review;</li>
  	<li>Sprint Retrospective.</li>

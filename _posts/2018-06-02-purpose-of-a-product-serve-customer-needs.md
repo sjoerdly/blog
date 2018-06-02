@@ -15,6 +15,8 @@ Recently I shared my thoughts on what should come first, your customer or your e
 
 There seems to be a large group of business people that believe the purpose of a product (firm/company/organization) is to make money, aka to sustain itself. I've always had a bit of trouble with this notion but accepted it because when it doesn't sustain itself it will go under. So it is pretty fundamental, we probably all agree on that bit.
 
+<a href="http://sjoerdly.com/wp/wp-content/uploads/2018/06/twitter_customer_purpose.png"><img class="alignnone size-full wp-image-168" src="http://sjoerdly.com/wp/wp-content/uploads/2018/06/twitter_customer_purpose.png" alt="tweet displaying an excerpt of steve dennings article on the real purpose of a firm: create customers" width="331" height="202" /></a>
+
 However, as <a href="https://www.forbes.com/sites/stevedenning/2018/05/30/peter-druckers-virtuous-firm-vs-the-worlds-dumbest-idea/#7795e051556e">Steve eloquently writes</a>:
 
 <em>"The purpose of a firm, and the best way to make money, and indeed the only sustainable way, is to create customers. Shortcuts to prosperity by making money out of money are dangerous illusions. Prosperity comes from generating real goods and services for real human beings..."</em> &gt; <a href="https://www.forbes.com/sites/stevedenning/2018/05/30/peter-druckers-virtuous-firm-vs-the-worlds-dumbest-idea/#7795e051556e">read more on forbes.com</a>

@@ -1,6 +1,6 @@
 ---
 ID: 150
-post_title: Definition of done in sprint planning?
+post_title: Definition of done in sprint planning
 author: Sjoerdly
 post_excerpt: ""
 layout: post

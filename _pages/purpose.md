@@ -8,9 +8,9 @@ permalink: http://sjoerdly.com/purpose/
 published: true
 post_date: 2018-06-05 12:50:39
 ---
-On this page you find the <strong>Purpose</strong> statement of Sjoerd Kranendonk. This is not an 'about' me page. This is more like a <em>Product Vision</em> or a <em>Mission statement. </em>Learn more about the idea of publishing a Purpose statement at <a href="https://slashpurpose.org/">slashpurpose.org</a>
-<h2>Better Outcomes through Empricism &amp; Compassion</h2>
-I want to contribute to a world where people and organizations address real customer needs by balancing Empiricism &amp; Compassion. Approaching product development in a holistic way, preventing potentially wasteful local optimization, and optimizing our effort to improve the whole.
+On this page you find the <strong>Purpose</strong> statement of Sjoerd Kranendonk. This is not an '<a href="http://sjoerdly.com/about-sjoerd/">about Sjoerd</a>' page, but <a href="http://sjoerdly.com/about-sjoerd/">I have one of those too</a>. This is more like a <em>Product Vision</em> or a <em>Mission statement. </em>Learn more about the idea of publishing a Purpose statement at <a href="https://slashpurpose.org/">slashpurpose.org</a>
+<h2>Enabling Better Outcomes through Empricism &amp; Compassion</h2>
+I want to contribute to a world where people and organizations address real customer needs by balancing Empiricism &amp; Compassion. Help others approach product development in a holistic way by preventing potentially wasteful local optimization and optimizing our effort to improve the whole.
 <h3>Empiricism</h3>
 <ul>
  	<li>Putting <strong>outcomes</strong> over <em>outputs</em>;</li>

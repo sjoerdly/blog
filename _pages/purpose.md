@@ -31,6 +31,6 @@ I want to contribute to a world where people and organizations address real cust
 
 At prowareness, each calendar year we create a '(wo)man with a plan' poster. This year (2018) we used the Ikigai format, which lead me to the purpose you find detailed on this page.
 
-<a href="http://sjoerdly.com/wp/wp-content/uploads/2018/06/Ikigai2018_full.jpg"><img class="alignnone size-full wp-image-218" src="http://sjoerdly.com/wp/wp-content/uploads/2018/06/Ikigai2018_full.jpg" alt="Ikigai 2018 full '(wo)man wit a plan' prowareness" width="2048" height="1449" /></a>
+<a href="http://sjoerdly.com/wp/wp-content/uploads/2018/06/Ikigai2018_full.jpg"><img class="size-full wp-image-218 aligncenter" src="http://sjoerdly.com/wp/wp-content/uploads/2018/06/Ikigai2018_full.jpg" alt="Ikigai 2018 full '(wo)man wit a plan' prowareness" width="2048" height="1449" /></a>
 
 <em>This page is currently crystallizing. This means that I may change stuff, update, remove and add to make the message clearer and the content more valuable.  You can help me improve this content by providing feedback, asking questions or other communication. So please tell me what you like, how it impacts you or what you are missing. Your input is <strong>always</strong> appreciated.</em>

@@ -14,7 +14,7 @@ I am a coach, trainer &amp; consultant working with a lean-agile mindset to help
 <h2>Collaborate with Sjoerd</h2>
 I do this together with my awesome colleagues at Prowareness - We On, the Agile Academy, Scrum.org and all the agilists in my global and local network. This includes people I connect &amp; collaborate with at various clients. Please reach out to learn if there's value in collaborating.
 <h2>Connecting with (help from) Sjoerd</h2>
-As a connector and aspiring knowledge hub I try to learn together and increase knowledge and understanding of ways to improve our work effectiveness and happiness. The Product Owner Perspective (podcast) is one of the ways I try to help the community while at the same time learning from Product Owner practitioners around the world.
+As a connector and aspiring knowledge hub I try to learn together and increase knowledge and understanding of ways to improve our work effectiveness and happiness. The <a href="http://sjoerdly.com/series/product-owner-perspective/">Product Owner Perspective (podcast)</a> is one of the ways I try to help the community while at the same time learning from Product Owner practitioners around the world.
 
 If you want to learn more, have a Proecut Owner or story to share for the podcast or anything else.... reach out on a preferred medium and let's learn together!
 

@@ -1,11 +1,11 @@
 ---
 ID: 241
-post_title: 'Agile &#038; Scrum for Maximum benefit &#8211; use a holistic approach to product value'
+post_title: 'Maximum benefit Scrum: a holistic approach to product value'
 author: Sjoerdly
 post_excerpt: ""
 layout: post
 permalink: >
-  http://sjoerdly.com/agile-scrum-maximum-benefit-holistic-approach-product-value/
+  http://sjoerdly.com/maximum-benefit-scrum-holistic-approach-product-value/
 published: true
 post_date: 2018-06-08 12:39:58
 ---

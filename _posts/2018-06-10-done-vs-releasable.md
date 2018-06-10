@@ -8,7 +8,7 @@ permalink: http://sjoerdly.com/done-vs-releasable/
 published: true
 post_date: 2018-06-10 13:03:32
 ---
-Done in Scrum: does it <em>have </em>to be releasable? Spoiler: no way Jose! There’s a road to releasable and Scrum can help getting there. Done vs Releasable is about the difference of doing Scrum as intended and thus gaining maximum benefit, versus the long hard road to reach that state of pure transparency.
+Done in your Scrum Team: does it <em>have </em>to be releasable? Spoiler: no way Jose! There’s a road to releasable and trying Scrum can help getting there. Done vs Releasable is about the difference of doing Scrum as intended and thus gaining maximum benefit, versus the long hard road to reach that state of pure transparency.
 
 In this post I'd like to explore the concept of the 'done' Increment and how this relates to the 'releasable' Increment. Let's start with this awesome quote by Gunther Verheyen: "<a href="https://www.scrum.org/resources/blog/done-heart-scrum">If Scrum was to be reduced to one purpose only, that would be the creation of <strong>releasable Increments of product</strong></a>" (slightly simplified by me). I often use this in training to underline the importance of the concept of 'Done' and the Definition of Done in Scrum. So the intention of Scrum, according to Gunther and me (a.o.) is to create a releasable Increment.
 

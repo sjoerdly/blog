@@ -16,13 +16,13 @@ post_date: 2018-06-16 18:17:54
 <h3>Scrum teams that lack certain skills needed for the releasable Increment</h3>
 For example, starting up a new team or starting on a new area or product with an existing team, where certain Security tests are needed to pass regulatory law. We currently do not have the expertise and/or skills to do this (well enough) within our team. And without passing these Security test criteria, the Increment is not allowed to be released to the market.
 <h4>One way to solve this</h4>
-…
+[example to be inserted here]
 
 Take it to the team! Facilitate a skills matrix workshop with ist and soll and let the team suggest how to get the skills up to snuff and what if any temporary solutions we can try.
 <h3>Scrum teams that lack the mandate to do certain process steps to create a releasable increment</h3>
 For example a team that is not allowed to roll out releases to the production environment in their company.
 <h4>One way to solve this</h4>
-…
+[example to be inserted here]
 
 Take it to the team! Facilitate a Retrospective or workshop where the team explores what they feel they are able to do but are not allowed yet. Then find ways to collaborate more closely with those who are actually allowed and try to make the process smoother while making transparent to the decision makers the downsides of not having the full transparency of a releasable Increment each Sprint (miscommunication, quality, wait times, inefficiencies, etc).
 <h3>References</h3>

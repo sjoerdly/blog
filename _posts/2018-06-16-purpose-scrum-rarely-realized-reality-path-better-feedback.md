@@ -13,6 +13,10 @@ post_date: 2018-06-16 18:17:54
 
 <h3 lang="nl">Many 'Scrum' teams struggle to deliver a releasable Increment</h3>
 <span lang="nl">Recently I found myself discussing the difference between 'done' and releasable' with some fellow trainers and Scrum enthusiasts, and I blogged about that in 'Done vs releasable'. In Scrum there is no doubt that a releasable increment is required, yet in the world at large many teams using Scrum (self reported) are struggling to create releasable Increments in their Sprints.</span><span lang="en-US"> I am confident that most actually don't and never have. Some teams because they don't have all the skills needed (for instance release expertise), some teams because they don't have the mandate in their organization to actually perform all the steps needed. How can we use the Definition of Done to help us improve and what is the best way to move forward? How do we reach that necessary state of Scrum where we have a releasable Increment each Sprint to truly validate our assumptions of both Business Value (how well satisfy a customer need) and Technical Quality (how well is our solution built). </span>
+
+&nbsp;
+
+<a href="http://sjoerdly.com/wp/wp-content/uploads/2018/06/growing-to-releasable-increment.png"><img class="alignnone size-full wp-image-279" src="http://sjoerdly.com/wp/wp-content/uploads/2018/06/growing-to-releasable-increment.png" alt="" width="1954" height="900" /></a>
 <h3>Scrum Teams that lack certain skills needed for the releasable Increment</h3>
 For example, starting up a new team or starting on a new area or product with an existing team, where certain Security tests are needed for every release to pass regulatory law. We currently do not have the expertise and/or skills to do this (well enough) within our team. And without passing these Security test criteria, the Increment is not allowed to be released to the market. The bottom line is that the Development Team has insufficient skills to create a releasable Increment (without outside help).
 <h4>How to solve the lack of skills needed to release an Increment as a Development Team</h4>

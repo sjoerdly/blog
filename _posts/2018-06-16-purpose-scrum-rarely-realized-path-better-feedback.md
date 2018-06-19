@@ -5,7 +5,7 @@ author: Sjoerdly
 post_excerpt: ""
 layout: post
 permalink: >
-  http://sjoerdly.com/purpose-scrum-rarely-realized-reality-path-better-feedback/
+  http://sjoerdly.com/purpose-scrum-rarely-realized-path-better-feedback/
 published: true
 post_date: 2018-06-16 18:17:54
 ---

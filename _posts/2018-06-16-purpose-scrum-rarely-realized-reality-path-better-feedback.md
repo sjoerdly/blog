@@ -1,6 +1,6 @@
 ---
 ID: 268
-post_title: 'The Purpose of Scrum is rarely realized in reality &#8211; a path to better feedback'
+post_title: 'The Purpose of Scrum is rarely realized &#8211; a path to better feedback'
 author: Sjoerdly
 post_excerpt: ""
 layout: post
@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-06-16 18:17:54
 ---
-The purpose of Scrum is to deliver Increments of releasable functionality[<a href="https://www.scrum.org/resources/blog/done-heart-scrum">1</a>]. So at each Sprint Review, a "Done" Increment is required to make transparent the progress made by the team. Releasing it opens the gate to market validation to Inspect and Adapt based on market feedback (i.e. actual use). The only feedback that counts is the actual use of our Product. All else is just hypothesis or worse, assumption. While having no remaining work left to do provides development Transparency. This means our ideas &amp; plans of future work are not impeded by hidden loose ends and we are not building up Technical Debt[<a href="https://www.martinfowler.com/bliki/TechnicalDebt.html">2</a>].
+The purpose of Scrum is to deliver Increments of releasable functionality [<a href="https://www.scrum.org/resources/blog/done-heart-scrum">1</a>]. So at each Sprint Review, a "Done" Increment is required to make transparent the progress made by the team. Releasing it opens the gate to market validation to Inspect and Adapt based on market feedback (i.e. actual use). The only feedback that counts is the actual use of our Product. All else is just hypothesis or worse, assumption. While having no remaining work left to do provides development Transparency. This means our ideas &amp; plans of future work are not impeded by hidden loose ends and we are not building up Technical Debt [<a href="https://www.martinfowler.com/bliki/TechnicalDebt.html">2</a>].
 <h3 lang="nl">Many 'Scrum' teams struggle to deliver a releasable Increment</h3>
 <span lang="nl">Recently I found myself discussing the difference between 'done' and releasable' with some fellow trainers and Scrum enthusiasts, and I blogged about that in 'Done vs releasable'. In Scrum there is no doubt that a releasable increment is required, yet in the world at large many teams using Scrum (self reported) are struggling to create releasable Increments in their Sprints.</span><span lang="en-US"> I am confident that most actually don't and never have. Some teams because they don't have all the skills needed (for instance release expertise), some teams because they don't have the mandate in their organization to actually perform all the steps needed. How can we use the Definition of Done to help us improve and what is the best way to move forward? How do we reach that necessary state of Scrum where we have a releasable Increment each Sprint to truly validate our assumptions of both Business Value (how well satisfy a customer need) and Technical Quality (how well is our solution built). </span>
 

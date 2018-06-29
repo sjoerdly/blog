@@ -31,9 +31,27 @@ An example:
  	<li><strong>Forecast summary</strong>: Changing visuals to be color-blind compatible AND HTML structure to be screen reader proof and support keyboard  navigation.</li>
  	<li><strong>Sprint Backlog</strong>:
 <ul>
- 	<li>Update button elements to be colorblind compatible (either by better images or changing to pure css)</li>
- 	<li>Refactor HTML to latest standards (which better support accessibility out of the box)</li>
- 	<li>Add ARIA tags to HTML where needed</li>
+ 	<li>Update button elements to be colorblind compatible (either by better images or changing to pure css)
+<ul>
+ 	<li>research best accessible option that is still pretty for non-impaired users</li>
+ 	<li>Optionally create new images</li>
+ 	<li>Update code (and/or images)</li>
+ 	<li>Run accessibility tests on button elements</li>
+ 	<li>Validate other DoD items</li>
+</ul>
+</li>
+ 	<li>Refactor HTML to latest standards (which better support accessibility out of the box)
+<ul>
+ 	<li>X</li>
+ 	<li>Y</li>
+ 	<li>Z</li>
+</ul>
+</li>
+ 	<li>Add ARIA tags to HTML where needed
+<ul>
+ 	<li>etc</li>
+</ul>
+</li>
  	<li>Improve HTML structure to support logical tab order</li>
  	<li>Add labeling to inputs to support screen readers</li>
  	<li>Support text zooming better (currently some layout breaks when using browser zoom)</li>

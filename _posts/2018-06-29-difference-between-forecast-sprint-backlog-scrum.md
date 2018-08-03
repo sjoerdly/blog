@@ -1,11 +1,11 @@
 ---
 ID: 296
-post_title: 'The difference between the &#8216;Forecast&#8217; and the &#8216;Sprint Backlog&#8217; as a result of Sprint Planning in Scrum'
+post_title: 'The difference between the &#8216;Forecast&#8217; and the &#8216;Sprint Backlog&#8217; in Scrum'
 author: Sjoerdly
 post_excerpt: ""
 layout: post
 permalink: >
-  http://sjoerdly.com/the-difference-between-the-forecast-and-the-sprint-backlog-as-a-result-of-sprint-planning-in-scrum/
+  http://sjoerdly.com/difference-between-forecast-sprint-backlog-scrum/
 published: true
 post_date: 2018-06-29 22:31:49
 ---

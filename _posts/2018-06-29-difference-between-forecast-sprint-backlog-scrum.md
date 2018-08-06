@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-06-29 22:31:49
 ---
-In the slides of the Scrum courses I teach, the results of the Sprint Planning are listed as: Sprint Goal; Forecast; Sprint Backlog. It has been bothering me for some time now that I had no real grasp on the reason for separately listing the words <em>Forecast </em>and <em>Sprint Backlog. </em>Since in my mind they were just different words for the same thing: The current 'best' plan that the Development Team has for achieving the Sprint Goal, making transparent the forecasted functionality as a list of Backlog Items (most often directly pulled from the top of the Product Backlog).
+In the slides of the Scrum courses I teach, the results of the Sprint Planning are listed as: <em>Sprint Goal</em>; <em>Forecast</em>; <em>Sprint Backlog</em>. Ever since the PSPO TTT I've had the unsettling feeling that I should have a better grasp on the reason for separately listing the words <em>Forecast </em>and <em>Sprint Backlog </em>there<em>. </em>In my mind they were always just different words for the same thing. To me, both were different words to describe the current 'best' plan that the Development Team has for achieving the Sprint Goal. Creating transparency on the forecasted functionality as a list of Backlog Items (most often directly pulled from the top of the Product Backlog).
 
 In the Scrum Guide, the word <em>forecast</em> is used in the first sentence of the <a href="http://www.scrumguides.org/scrum-guide.html#events-planning">Sprint Planning</a> chapter:
 <blockquote>The Development Team works to forecast the functionality that will be developed during the Sprint.</blockquote>

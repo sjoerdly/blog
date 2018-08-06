@@ -60,4 +60,5 @@ An example:
 </ul>
 I hope this helps clarify some potential confusion and maybe the use of an explicit forecast even helps to better communicate with Stakeholders about what to expect in a Sprint Review.
 
-<em>Is this useful, or do you have more questions about this topic? I'd love to hear your comments below!</em>
+<em>Is this useful, or do you have more questions about this topic? I'd love to hear your comments below! This is as of yet still a 'published draft' so contents are bound to change. For instance an image is still needed before this goes from draft to 'released'.
+</em>

@@ -13,7 +13,6 @@ In the slides of the Scrum courses I teach, the results of the Sprint Planning a
 
 In the Scrum Guide, the word <em>forecast</em> is used in the first sentence of the <a href="http://www.scrumguides.org/scrum-guide.html#events-planning">Sprint Planning</a> chapter, and also mentioned when describing the <a href="http://www.scrumguides.org/scrum-guide.html#artifacts-sprintbacklog">Sprint Backlog</a>:
 <blockquote>The Development Team works to forecast the functionality that will be developed during the Sprint.</blockquote>
-&nbsp;
 <blockquote>The Sprint Backlog is a forecast by the Development Team about what functionality will be in the next Increment and the work needed to deliver that functionality into a "Done" Increment.</blockquote>
 This does not clarify a lot regarding the relation of the Sprint Backlog and the Forecast. At least not until now.
 

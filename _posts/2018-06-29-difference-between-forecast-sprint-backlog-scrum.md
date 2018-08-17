@@ -12,7 +12,7 @@ post_date: 2018-06-29 22:31:49
 <p>There is a difference between the <em>forecast</em> and the <em>Sprint Backlog</em> in Scrum. Exactly what this difference is, has eluded me for some time, and it may very well be unclear to you too. The difference may seem subtle, but can have real practical benefits as you will learn below.</p>
 
 <!-- wp:heading -->
-<h2><strong>The way I used to look at forecast &amp; Sprint Goal</strong></h2>
+<h2>The way I used to look at forecast &amp; Sprint Goal</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -39,9 +39,9 @@ post_date: 2018-06-29 22:31:49
 <p>This does not clarify a lot regarding the relation of the Sprint Backlog and the Forecast. At least it did not for me, until now.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><strong>The moment of insight; reading the Scrum.org Glossary</strong></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>The moment of insight; reading the Scrum.org Glossary</h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>So what happened? Today I was reading <a href="https://www.scrum.org/resources/scrum-glossary">the Scrum Glossary</a> and through its descriptions the distinction finally clicked. The Forecast (emphasis mine):</p>
@@ -67,9 +67,9 @@ post_date: 2018-06-29 22:31:49
 <figure class="wp-block-image"><img src="http://sjoerdly.com/wp/wp-content/uploads/2018/08/forecast.jpg" alt="wooden brown tiles with letters spelling 'forecast'" class="wp-image-346"/><figcaption>Forecast by <a href="http://www.thebluediamondgallery.com/wooden-tile/f/forecast.html">Nick Youngson CC BY-SA 3.0</a></figcaption></figure>
 <!-- /wp:image -->
 
-<!-- wp:paragraph -->
-<p><strong>A practical application using the difference between forecast &amp; Sprint Goal</strong></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2>A practical application using the difference between forecast &amp; Sprint Goal</h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>As an added bonus, we could use the <em>forecast</em> explicitly as a summary of the complete set of functionality that is believed to fulfill or reach the Sprint Goal. This means we have a <em>Sprint Goal</em>, plus a <em>forecast summary</em> to describe the <em>what</em> and <em>how</em> of the current Sprint. The <em>Sprint Backlog</em> then describes the plan and details the changes to the Increment that are thought to be needed to <em>reach the Sprint Goal</em> and <em>realize the forecast</em>.</p>

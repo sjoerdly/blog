@@ -64,7 +64,7 @@ post_date: 2018-06-29 22:31:49
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":346} -->
-<figure class="wp-block-image"><img src="http://sjoerdly.com/wp/wp-content/uploads/2018/08/forecast.jpg" alt="wooden brown tiles with letters spelling 'forecast'" class="wp-image-346"/><figcaption>Forecast by <a href="http://www.thebluediamondgallery.com/wooden-tile/f/forecast.html">Nick Youngson CC BY-SA 3.0</a></figcaption></figure>
+<figure class="wp-block-image"><img src="http://sjoerdly.com/wp/wp-content/uploads/2018/08/forecast.jpg" alt="wooden brown tiles with letters spelling forecast" class="wp-image-346"/><figcaption>Forecast by <a href="http://www.thebluediamondgallery.com/wooden-tile/f/forecast.html">Nick Youngson CC BY-SA 3.0</a></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -96,5 +96,5 @@ post_date: 2018-06-29 22:31:49
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><em>Is this useful, or do you have more questions about this topic? I'd love to hear your comments below! This is as of yet still a 'published draft' so contents are bound to change. For instance an image is still needed before this goes from draft to 'released'.</em></p>
+<p><em>Is this useful, or do you have more questions about this topic? I'd love to hear your comments below! </em></p>
 <!-- /wp:paragraph -->

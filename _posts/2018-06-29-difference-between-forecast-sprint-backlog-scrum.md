@@ -13,7 +13,7 @@ There is a difference between the <em>forecast</em> and the <em>Sprint Backlog</
 
 &nbsp;
 
-<h2>The way I used to look at forecast &amp; Sprint Plan</h2>
+<h2>The way I used to look at forecast &amp; Sprint Backlog</h2>
 &nbsp;
 
 &nbsp;
@@ -127,6 +127,7 @@ An example:
 <li><strong>Sprint Backlog</strong>:
 <ul>
 <li>Update button elements to be colorblind compatible (either by better images or changing to pure css)
+ &nbsp;
 &nbsp;
 
 <ul>

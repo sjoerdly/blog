@@ -1,6 +1,6 @@
 ---
 ID: 296
-post_title: 'The difference between the &#8216;Forecast&#8217; and the &#8216;Sprint Backlog&#8217; in Scrum'
+post_title: 'The difference between the &#8216;forecast&#8217; and the &#8216;Sprint Backlog&#8217; in Scrum'
 author: Sjoerdly
 post_excerpt: ""
 layout: post
@@ -9,7 +9,11 @@ permalink: >
 published: true
 post_date: 2018-06-29 22:31:49
 ---
-In the slides of the Scrum courses I teach, the results of the Sprint Planning are listed as: <em>Sprint Goal</em>; <em>Forecast</em>; <em>Sprint Backlog</em>. Ever since the PSPO TTT I've had the unsettling feeling that I should have a better grasp on the reason for separately listing the words <em>Forecast </em>and <em>Sprint Backlog </em>there<em>. </em>In my mind they were always just different words for the same thing. To me, both were different words to describe the current 'best' plan that the Development Team has for achieving the Sprint Goal. Creating transparency on the forecasted functionality as a list of Backlog Items (most often directly pulled from the top of the Product Backlog).
+There is a difference between the <em>forecast</em> and the <em>Sprint Backlog</em> in Scrum. Exactly what this difference is, has eluded me for some time, and it may very well be unclear to you too. The difference may seem subtle, but can have real practical benefits as you will learn below.
+
+<strong>The way I used to look at forecast &amp; Sprint Goal</strong>
+
+In the slides of the Scrum courses I teach, the results of the Sprint Planning are listed as: <em>Sprint Goal</em>; <em>f</em><em>orecast</em>; <em>Sprint Backlog</em>. Ever since the PSPO TTT I've had the unsettling feeling that I should have a better grasp on the reason for separately listing the words <em>forecast </em>and <em>Sprint Backlog </em>there<em>. </em>In my mind they were always just different words for the same thing. To me, both were different words to describe the current 'best' plan that the Development Team has for achieving the Sprint Goal. Creating transparency on the forecasted functionality as a list of Product Backlog Items (PBI's). These are most often directly pulled from the top of the Product Backlog.
 
 In the Scrum Guide, the word <em>forecast</em> is used in the first sentence of the <a href="http://www.scrumguides.org/scrum-guide.html#events-planning">Sprint Planning</a> chapter:
 <blockquote>The Development Team works to forecast the functionality that will be developed during the Sprint.</blockquote>
@@ -17,13 +21,17 @@ It is also mentioned when describing the <a href="http://www.scrumguides.org/scr
 <blockquote>The Sprint Backlog is a forecast by the Development Team about what functionality will be in the next Increment and the work needed to deliver that functionality into a "Done" Increment.</blockquote>
 This does not clarify a lot regarding the relation of the Sprint Backlog and the Forecast. At least it did not for me, until now.
 
+<strong>The moment of insight; reading the Scrum.org Glossary</strong>
+
 So what happened? Today I was reading <a href="https://www.scrum.org/resources/scrum-glossary">the Scrum Glossary</a> and through its descriptions the distinction finally clicked. The Forecast (emphasis mine):
 <blockquote><strong>Forecast (of functionality):</strong> the <em>selection of items</em> from the Product Backlog a Development Team deems feasible for implementation in a Sprint.</blockquote>
 And the Sprint Backlog (emphasis mine):
 <blockquote><strong>Sprint Backlog:</strong> an overview of the development work to realize a Sprint’s goal, typically a <em>forecast of functionality</em> and <em>the work needed to deliver</em> that functionality. Managed by the Development Team.</blockquote>
-So here we have it. The Forecast is part of the Sprint Backlog. The Sprint Backlog consists of the Forecast (of functionality) <em>plus the work needed to deliver that functionality</em>. The Forecast is made transparent through the Product Backlog Items selected during Sprint Planning by the Development Team. The Sprint Backlog expands this by additionally making transparent the work that is expected to turn these PBI's into a 'Done' Increment (releasable &amp; usable).
+So here we have it. The forecast is part of the Sprint Backlog. The Sprint Backlog consists of the forecast (of functionality) <em>plus the work needed to deliver that functionality</em>. The forecast is made transparent through the Product Backlog Items selected during Sprint Planning by the Development Team. The Sprint Backlog expands this by additionally making transparent the work that is expected to turn these PBI's into a 'Done' Increment (releasable &amp; usable).
 
-As an added bonus, we could use the Forecast explicitly as a summary of the complete set of functionality that is believed to fulfill or reach the Sprint Goal. This means we have a Sprint Goal, plus a Forecast summary to describe the <em>what</em> and <em>how</em> of the current Sprint. The Sprint Backlog then describes the plan and details the changes to the Increment that are thought to be needed to <em>reach the Sprint Goal</em> and <em>realize the Forecast</em>.
+<strong>A practical application using the difference between forecast &amp; Sprint Goal</strong>
+
+As an added bonus, we could use the <em>forecast</em> explicitly as a summary of the complete set of functionality that is believed to fulfill or reach the Sprint Goal. This means we have a <em>Sprint Goal</em>, plus a <em>forecast summary</em> to describe the <em>what</em> and <em>how</em> of the current Sprint. The <em>Sprint Backlog</em> then describes the plan and details the changes to the Increment that are thought to be needed to <em>reach the Sprint Goal</em> and <em>realize the forecast</em>.
 
 An example:
 <ul>

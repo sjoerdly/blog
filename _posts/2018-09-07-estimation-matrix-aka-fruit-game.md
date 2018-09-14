@@ -30,7 +30,7 @@ post_date: 2018-09-07 11:20:21
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>De stappen voor het toepassen van een <strong>Estimation Matrix</strong> op een echt product zijn vrijwel het zelfde. Ik verwacht dat je alleen meer tijd nodig hebt en wellicht nog wat andere facilitatietechnieken, bijvoorbeeld uit <a href="http://www.liberatingstructures.com">Liberating Structures</a>, om tot een gedeeld beeld van waarde te komen met de aanwezigen. Voor inspanning is dat meestal eenvoudiger, maar wel ook goed om even bij stil te staan.</p>
+<p>De stappen voor het toepassen van een <strong>Estimation Matrix</strong> op een echt product zijn vrijwel het zelfde. Ik verwacht dat je alleen meer tijd nodig hebt en wellicht nog wat andere facilitatietechnieken, bijvoorbeeld uit <a href="http://www.liberatingstructures.com/">Liberating Structures</a>, om tot een gedeeld beeld van waarde te komen met de aanwezigen. Voor inspanning is dat meestal eenvoudiger, maar wel ook goed om even bij stil te staan.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

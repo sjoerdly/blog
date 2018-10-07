@@ -10,11 +10,15 @@ published: true
 post_date: 2018-10-07 11:58:11
 ---
 <!-- wp:paragraph -->
-<p>A really simple approach to CapEx &amp; OpEx financial accounting with Scrum. Why is this needed? The apparent mismatch between standard financial accounting practices and agile ways of working. Specifically CapEx and OpEx accounting, which is often a very important practice in (larger) organizations. This distinction seems to be at odds with having a more mixed flow of work compared to the days when we used to make a big design up front (BDUF). After reading the great article <a href="https://www.scrum.org/john-gillespie">by fellow PST John Gillespie</a> titled <a href="https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens?utm_source=sjoerdly.com">CapEx &amp; OpEx through a Lean lens</a>, I felt the need to rephrase in my own terms to give a practical starting point for Scrum Teams struggling with this concept which can lead to an administrative burden if we aren't careful.</p>
+<p>A really simple approach to CapEx &amp; OpEx financial accounting with Scrum. Why is this needed? The apparent mismatch between standard financial accounting practices and agile ways of working. Specifically CapEx and OpEx accounting, which is often a very important practice in (larger) organizations. This distinction seems to be at odds with having a more mixed flow of work compared to the days when we used to make a big design up front (BDUF). After reading the great article <a href="https://www.scrum.org/john-gillespie">by fellow PST John Gillespie</a> titled <a href="https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens?utm_source=sjoerdly.com">CapEx &amp; OpEx through a Lean lens</a> [1], I felt the need to rephrase in my own terms to give a practical starting point for Scrum Teams struggling with this concept which can lead to an administrative burden if we aren't careful.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><em>Disclaimer: I am by no means a financial expert and the below article is just as much me trying to make sense of stuff as potentially helpful to practitioners in the wild. The proposed practices are by no means a panacea. Talk to your financial experts and work together to improve!</em><br/></p>
+<p><em>Disclaimer: I am by no means a financial expert and the below article is just as much me trying to make sense of stuff as potentially helpful to practitioners in the wild. The proposed practices are by no means a panacea. Talk to your financial experts and work together to improve! The sources used are targeted at</em> INTERNAL<em> software development. I am not aware how this would translate to SAAS or app development.</em><br/></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em></em><br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -70,7 +74,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In Scrum, the act of Product Backlog refinement is defined as follows:</p>
+<p>In Scrum, the act of Product Backlog refinement is defined as follows [2]:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -114,7 +118,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In discussing all this, you might have thought to yourself: "But in agile we want to keep things simple, and we don't discern between phases in product development!". A possible simplified end state is to see it as a sunk cost and since we never can truly be sure about the ROI of our work, we should account for it as 'gone'.  For more on this, read <a href="https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex">Why More CFO's are shifting their investment from CapEx to OpEx</a>. And while that is true, it may be a requirement in your organization to account in this way. And it may very well be that the organization is not ready (yet) to completely put all cost under Operational Expense (OpEx) and be done with it. </p>
+<p>In discussing all this, you might have thought to yourself: "But in agile we want to keep things simple, and we don't discern between phases in product development!". A possible simplified end state is to see it as a sunk cost and since we never can truly be sure about the ROI of our work, we should account for it as 'gone'.  For more on this, read <a href="https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex">Why More CFO's are shifting their investment from CapEx to OpEx</a> [3]. And while that is true, it may be a requirement in your organization to account in this way. And it may very well be that the organization is not ready (yet) to completely put all cost under Operational Expense (OpEx) and be done with it.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -146,5 +150,13 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><em>What are your experiences with CapEx &amp; OpEx in Scrum? Are there pitfalls you'd like to add, or different practical appraoches to add?  Do you have additional questions or improvements for this article? Let me know in the comments!</em><br/></p>
+<p><em>What are your experiences with CapEx &amp; OpEx in Scrum? Are there pitfalls you'd like to add, or different practical appraoches to add?  Do you have additional questions or improvements for this article? Let me know in the comments!</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>[1] <a href="https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens">https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens</a></li><li>[2] <a href="https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog">https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog</a></li><li>[3] <a href="https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex">https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens"></a><br/></p>
 <!-- /wp:paragraph -->

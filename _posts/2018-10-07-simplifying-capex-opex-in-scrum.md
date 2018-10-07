@@ -74,11 +74,11 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In Scrum, the act of Product Backlog refinement is defined as follows [2]:</p>
+<p>In Scrum, the act of <a href="https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog">Product Backlog</a> [2] refinement is defined as follows:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog items. <br/></p><cite>https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog<br/></cite></blockquote>
+<blockquote class="wp-block-quote"><p>Product Backlog refinement is the act of adding detail, estimates, and order to items in the Product Backlog. This is an ongoing process in which the Product Owner and the Development Team collaborate on the details of Product Backlog items. <br/></p><cite><a href="https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog">https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog</a><br/></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -86,7 +86,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Refinement usually consumes no more than 10% of the capacity of the Development Team. </p><cite>https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog<br/></cite></blockquote>
+<blockquote class="wp-block-quote"><p>Refinement usually consumes no more than 10% of the capacity of the Development Team. </p><cite><a href="https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog">https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog</a><br/></cite></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->

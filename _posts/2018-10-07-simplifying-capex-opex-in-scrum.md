@@ -14,7 +14,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><em>Disclaimer: I am by no means a financial expert and the below article is just as much me trying to make sense of stuff as potentially helpful to practitioners in the wild. The proposed practices are by no means a panacea. Talk to your financial experts and work together to improve! The sources used are targeted at</em> INTERNAL<em> software development. I am not aware how this would translate to SAAS or app development.</em><br/></p>
+<p><em>Disclaimer: I am by no means a financial expert and the below article is just as much me trying to make sense of stuff as potentially helpful to practitioners in the wild. The proposed practices are by no means a panacea. Talk to your financial experts and work together to improve! The sources used are targeted at</em><em> software development </em>for INTERNAL use<em>. I am not aware how this would translate to SAAS or app development.</em><br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

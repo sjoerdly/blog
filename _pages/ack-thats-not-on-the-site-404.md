@@ -14,7 +14,7 @@ post_date: 2018-10-10 14:15:49
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Please let me know if you are sure there should be content on the url you followed, by sending me a message on @sjoerdly, the contact form or through a comment below.</p>
+<p>Please let me know if you are sure there should be content on the url you followed, by sending me a message on <a href="http://twitter.com/sjoerdly">@sjoerdly</a> .</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

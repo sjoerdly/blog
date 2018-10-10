@@ -66,7 +66,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Most teams have a good sense of how much time of the Sprint is normally spent on maintencance work. This is kept 'free' in the Sprint when crafting the Sprint plan. Sometimes it is put on the Sprint Backlog for transparency. For any new team with no clue, this is mostly 10-20% of their planning. And as such, 10-20% of their cost should be shifted to OpEx.  <br/></p>
+<p>Most teams have a good sense of how much time of the Sprint is normally spent on maintenance work. This is kept 'free' in the Sprint when crafting the Sprint plan. Sometimes it is put on the Sprint Backlog for transparency. For any new team with no clue, this is mostly 10-20% of their planning. And as such, 10-20% of their cost should be shifted to OpEx.  <br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

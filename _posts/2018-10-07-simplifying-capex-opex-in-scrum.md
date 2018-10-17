@@ -14,7 +14,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><em>Disclaimer: I am by no means a financial expert and the below article is just as much me trying to make sense of stuff as potentially helpful to practitioners in the wild. The proposed practices are by no means a panacea. Talk to your financial experts and work together to improve! The sources used are targeted at</em><em> software development </em>for INTERNAL use<em>. I am not aware how this would translate to SAAS or app development.</em><br/></p>
+<p><em>Disclaimer: I am by no means a financial expert and the below article is just as much me trying to make sense of stuff as potentially helpful to practitioners in the wild. The proposed practices are by no means a panacea. Talk to your financial experts and work together to improve! The sources used are targeted at</em><em> software development </em>for INTERNAL use<em>. I am not currently sure how this would translate to SAAS or app development.</em><br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -26,7 +26,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In short: CapEx is all development (innovation) work. OpEx is all 'preliminary' work, and all maintenance. So a super simplified way to track/account these is to budget all Product Owner activities as OpEx and all Development Team activities as CapEx. </p>
+<p>In short: CapEx is all development (innovation) work. OpEx is all 'preliminary' work, and all maintenance. So a super simplified way to track/account these is to budget all Product Owner activities as OpEx and all Development Team activities as CapEx. For a deeper dive and detailed background, also see the <a href="https://www.scaledagileframework.com/capex-and-opex/">extensive SAFe CapEx/OpEx article</a> [2].<br/></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -74,7 +74,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In Scrum, the act of <a href="https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog">Product Backlog</a> [2] refinement is defined as follows:</p>
+<p>In Scrum, the act of <a href="https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog">Product Backlog</a> [3] refinement is defined as follows:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -118,7 +118,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>In discussing all this, you might have thought to yourself: "But in agile we want to keep things simple, and we don't discern between phases in product development!". A possible simplified end state is to see it as a sunk cost and since we never can truly be sure about the ROI of our work, we should account for it as 'gone'.  For more on this, read <a href="https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex">Why More CFO's are shifting their investment from CapEx to OpEx</a> [3]. And while that is true, it may be a requirement in your organization to account in this way. And it may very well be that the organization is not ready (yet) to completely put all cost under Operational Expense (OpEx) and be done with it.</p>
+<p>In discussing all this, you might have thought to yourself: "But in agile we want to keep things simple, and we don't discern between phases in product development!". A possible simplified end state is to see it as a sunk cost and since we never can truly be sure about the ROI of our work, we should account for it as 'gone'.  For more on this, read <a href="https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex">Why More CFO's are shifting their investment from CapEx to OpEx</a> [4]. And while that is true, it may be a requirement in your organization to account in this way. And it may very well be that the organization is not ready (yet) to completely put all cost under Operational Expense (OpEx) and be done with it.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -154,7 +154,7 @@ post_date: 2018-10-07 11:58:11
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>[1] <a href="https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens">https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens</a></li><li>[2] <a href="https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog">https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog</a></li><li>[3] <a href="https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex">https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex</a></li></ul>
+<ul><li>[1] <a href="https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens">https://www.scrum.org/resources/blog/capex-or-opex-through-lean-lens</a></li><li>[2] <a href="https://www.scaledagileframework.com/capex-and-opex/">https://www.scaledagileframework.com/capex-and-opex/ </a><br/></li><li>[3] <a href="https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog">https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog</a></li><li>[4] <a href="https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex">https://www.mitel.com/blog/why-more-cfos-shifting-it-investment-capex-opex</a></li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->

@@ -2,7 +2,7 @@
 ID: 395
 post_title: 'Scrum Masters &#038; Agile Coaches, please stop coaching teams!'
 author: Sjoerdly
-post_excerpt: ""
+post_excerpt: "Why do I think team coaching is a bad idea? Dont get me wrong, I believe team coaching can have a great amount of added value. It's just that I often find that teams receive coaching while they actually should not even be a team."
 layout: post
 permalink: >
   http://sjoerdly.com/scrum-masters-agile-coaches-please-stop-coaching-teams/

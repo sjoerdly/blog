@@ -50,7 +50,7 @@ post_date: 2018-11-02 12:00:38
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The hamburger may be a playful, lightweight analogy to start discussing true agility in your organization, to keep in mind what is really important: delivering customer value and being in control by inviting feedback and learning from it. Good luck andSucces en eet smakelijk!</p>
+<p>The hamburger is a playful, lightweight analogy to start discussing true agility in your organization.  It can help too keep in mind what is really important: delivering customer value and being in control by inviting feedback and learning from it. Good luck andSucces en eet smakelijk!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

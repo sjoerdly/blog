@@ -1,6 +1,6 @@
 ---
 ID: 395
-post_title: 'Scrum Masters &#038; Agile Coaches, please stop coaching teams!'
+post_title: 'Scrum Masters &#038; Agile Coaches, stop team coaching!'
 author: Sjoerdly
 post_excerpt: "Why do I think team coaching is a bad idea? Dont get me wrong, I believe team coaching can have a great amount of added value. It's just that I often find that teams receive coaching while they actually should not even be a team."
 layout: post
@@ -34,7 +34,7 @@ post_date: 2018-11-02 12:00:38
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>When we return from the metaphor (well-fed, hopefully) and look at the way most businesses are organized, we will discover business units similar to the components of the hamburger. When such a business 'implements Agile', they will start creating AGile Teams within those units (components). Those teams need lots of help ofcourse to become truly agile, so people like me (Scrum Masters/Agile Coaches) are hired to coach those teams. And so we end op passionately coaching team <em>bottom bun</em>.</p>
+<p>When we return from the metaphor (well-fed, hopefully) and look at the way most businesses are organized, we will discover business units similar to the components of the hamburger. When such a business 'implements Agile', they will start creating Agile Teams within those units (components). Those teams need lots of help ofcourse to become truly agile, so people like me (Scrum Masters/Agile Coaches) are hired to coach those teams. And so we end op passionately coaching team <em>bottom bun</em>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

@@ -46,11 +46,11 @@ post_date: 2018-11-02 12:00:38
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>So before you start coaching an team, <em>please be aware</em> of the full hamburger and the components needed to deliver full, tasty value. So looking beyond the team you've been asked to coach, which other ingredients are needed to deliver customer value? It's truly rare to start in a perfect Agile situation, and that is ok. But never forget that it's your duty as Agile Coach or Scrum Master to help the organization to improve their way to true agility, to start delivering customer value with each team. To get the whole hamburger front and center and make it better with each delivery.</p>
+<p>So before you start coaching an team, <em>please be aware</em> of the full hamburger and the components needed to deliver full, tasty value. So looking beyond the team you've been asked to coach, which other ingredients are needed to deliver customer value? It's truly rare to start in a perfect Agile situation, and that is OK. But never forget that it's your duty as Agile Coach or Scrum Master to help the organization to improve their way to true agility, to start delivering customer value each iteration. To get the whole hamburger front and center and make it better with each delivery.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The hamburger is a playful, lightweight analogy to start discussing true agility in your organization.  It can help to keep in mind what is really important: delivering customer value and being in control by inviting feedback and learning from it. Good luck andSucces en eet smakelijk!</p>
+<p>The hamburger is a playful, lightweight metaphor to start discussing true agility in your organization.  It can help to keep in mind what is really important: delivering customer value and being in control, by inviting feedback and learning from it. Good luck and enjoy your burger!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

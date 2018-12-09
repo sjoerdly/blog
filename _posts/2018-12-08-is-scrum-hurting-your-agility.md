@@ -113,16 +113,16 @@ post_date: 2018-12-08 23:08:04
 <p>Scrum doesn’t solve your problem, or as Ken Schwaber once explained: “Scrum is like your mother in-law; very good in pointing out your mistakes.” Many organizations feel like Scrum slowed them down, because it exposes problems that have long been hidden. By applying an “Inclusive Scrum” mindset, the whole of the system - including UX - is optimised for complex work, not just the development.<br></p>
 <!-- /wp:paragraph -->
 
+<!-- wp:paragraph -->
+<p><em>How is your team doing? Where can you start the discussion around better collaboration and improving flow &amp; quality? Do you need help? Let us know in the comments! </em></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:heading {"level":3} -->
 <h3><strong>Want to know more?</strong></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><em>This article is a collaboration effort. It was conspired, developed and written by </em><a href="https://www.scrum.org/chris-lukassen"><em>Chris Lukassen</em></a><em> &amp; </em><a href="https://www.scrum.org/sjoerd-kranendonk"><em>Sjoerd Kranendonk</em></a><em>, two Professional Scrum Trainers with a love for great products and the people developing them. In our work we often encounter organizations and teams that struggle with Scrum as a value maximization framework. Mostly this boils down to Scrum Teams being suboptimally aligned with the actual Product and parts of the process still being done in a waterfall mindset. </em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><em>How is your team doing? Where can you start the discussion around better collaboration and improving flow &amp; quality? Do you need help? Let us know in the comments! </em></p>
+<p><em>This article is a collaboration effort. It was conspired, developed and written by </em><a href="https://www.scrum.org/chris-lukassen"><em>Chris Lukassen</em></a><em> &amp; </em><a href="https://www.scrum.org/sjoerd-kranendonk"><em>Sjoerd Kranendonk</em></a><em>, two Professional Scrum Trainers with a love for great products and the people developing them. In our work we often encounter organizations and teams that struggle with Scrum as a value maximization framework. Mostly this boils down to Scrum Teams being suboptimally aligned with the actual Product and parts of the process still being done in a waterfall mindset. Sounds familiar? Please feel free to comment below or contact us and we will be glad to help.</em></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->

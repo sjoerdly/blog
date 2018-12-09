@@ -12,7 +12,7 @@ published: true
 post_date: 2018-12-08 22:53:53
 ---
 <!-- wp:paragraph -->
-<p>Stakeholder Management has since long been a hot topic in project, programme and other management circles. The fact that people exist with a stake in whatever goals you are trying to achieve even found its way into leadership coaching (Marshall Goldsmith's Stakeholder Centered Coaching). In researching the topic of Stakeholder Management for a one-day training I am developing, I stumbled across the <a href="https://www.apm.org.uk/resources/find-a-resource/stakeholder-engagement/key-principles/">APM's 10 principles of Stakeholder Management</a>. Since my focus is Agile Product Development, not all of the principles (and explanations) apply. Many principles mention projects and are hinged on achieving results and the fact that projects are temporary in nature. Because of the fundamental differences between project and product mindset, I decided to transcribe the 10 principles, with the addition of  some advice/practices for each principle. <em>(links will be added later, but you can probably find most things yourself.)</em><br></p>
+<p>Stakeholder Management has since long been a hot topic in project, programme and other management circles. The fact that people exist with a stake in whatever goals you are trying to achieve even found its way into leadership coaching (Marshall Goldsmith's Stakeholder Centered Coaching). In researching the topic of Stakeholder Management for a one-day training I am developing, I stumbled across the <a href="https://www.apm.org.uk/resources/find-a-resource/stakeholder-engagement/key-principles/">APM's 10 principles of Stakeholder Management</a>. Since my focus is Agile Product Development, not all of the principles (and explanations) apply. Many principles mention projects and are hinged on achieving results and the fact that projects are temporary in nature. Because of the fundamental differences between project and product mindset, I decided to transcribe the 10 principles, with the addition of&nbsp; some advice/practices for each principle. <em>(links will be added later, but you can probably find most things yourself.)</em><br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -76,7 +76,7 @@ post_date: 2018-12-08 22:53:53
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":435} -->
-<figure class="wp-block-image"><img src="https://sjoerdly.com/wp/wp-content/uploads/2018/12/Screenshot-2018-12-08-at-22.49.38.png" alt="" class="wp-image-435"/><figcaption>Different Stakeholder  have different needs and wants.</figcaption></figure>
+<figure class="wp-block-image"><img src="https://sjoerdly.com/wp/wp-content/uploads/2018/12/Screenshot-2018-12-08-at-22.49.38.png" alt="" class="wp-image-435"/><figcaption>Different Stakeholder&nbsp; have different needs and wants.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -100,7 +100,7 @@ post_date: 2018-12-08 22:53:53
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>8. Compromise<br></h2>
+<h2>8. Compromise (but not on your vision)<br></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -124,7 +124,7 @@ post_date: 2018-12-08 22:53:53
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
-<h2>10. Take responsibility<br></h2>
+<h2>10. Clear responsibilities<br></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->

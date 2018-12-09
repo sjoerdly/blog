@@ -34,7 +34,7 @@ post_date: 2018-12-08 23:08:04
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":440} -->
-<figure class="wp-block-image"><img src="https://sjoerdly.com/wp/wp-content/uploads/2018/12/3397a61aab454a4f05039efa511933984a0de1c771532a4db39cd5efe59db73d.jpg" alt="how did this even happen - two batons one runner" class="wp-image-440"/></figure>
+<figure class="wp-block-image"><img src="https://sjoerdly.com/wp/wp-content/uploads/2018/12/3397a61aab454a4f05039efa511933984a0de1c771532a4db39cd5efe59db73d.jpg" alt="how did this even happen - two batons one runner" class="wp-image-440"/><figcaption><em>Passing part of the system sub-optimises the whole and leads to interesting situations on the workfloor</em></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

@@ -66,7 +66,7 @@ post_date: 2018-12-08 23:08:04
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->
-<h3><strong>Research outside of the Scrum Team</strong></h3>
+<h3><strong>1. Research outside of the Scrum Team</strong></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -82,7 +82,7 @@ post_date: 2018-12-08 23:08:04
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3><strong>Research as part of Backlog Refinement</strong></h3>
+<h3><strong>2. Research as part of Backlog Refinement</strong></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -94,7 +94,7 @@ post_date: 2018-12-08 23:08:04
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
-<h3><strong>In Sprint Research</strong></h3>
+<h3><strong>3. In-Sprint Research</strong></h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->

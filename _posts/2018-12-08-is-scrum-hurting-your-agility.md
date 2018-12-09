@@ -26,7 +26,7 @@ post_date: 2018-12-08 23:08:04
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"ordered":true} -->
-<ol><li>Your Scrum Teams have a Definition of Ready that demands a full ‘design’ before an item can be planned in the Sprint.</li><li>After your Scrum Teams deliver a backlog item as ‘Done’ it has to wait for business implementation before actually being of added value</li><li>Your Sprints are two weeks, but your actual time from idea to validation is closer to &nbsp;two months</li></ol>
+<ol><li>Your Scrum Teams have a Definition of Ready that demands a full ‘design’ before an item can be planned in the Sprint.</li><li>After your Scrum Teams deliver a backlog item as ‘Done’ it has to wait for business implementation before actually being of added value</li><li>Your Sprints are two weeks, but your actual time from idea to validation is over two months</li></ol>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->

@@ -34,7 +34,7 @@ post_date: 2018-12-16 15:02:44
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It may come as no surprise that an iterative and incremental approach is very well suited to drive both feedback loops to figure out and course correct. A framework like Scrum can heklp immenely, when coupled to a thourough (lean) ux approach. Driving both the focus on building great products (Scrum) and Addressing the right customer needs (lean UX).</p>
+<p>It may come as no surprise that an iterative and incremental approach is very well suited to drive both feedback loops to figure out and course correct. A framework like Scrum can help immensely, when coupled to a thourough (lean) ux approach. Driving both the focus on building great products (Scrum) and Addressing the right customer needs (lean UX).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

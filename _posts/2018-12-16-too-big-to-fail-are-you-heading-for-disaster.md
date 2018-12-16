@@ -10,13 +10,12 @@ published: true
 post_date: 2018-12-16 15:02:44
 ---
 <!-- wp:paragraph -->
-<p>"Too big to fail" is a phrase used for large organisations for a few main reasons: 
-  <ol>
-    <li>If this organisation fails, the whole economy will 'fail'. Think of large banks that had to be rescued by the government in various countries. </li>
-    <li>If any initiative in this organisation fails, we can keep it afloat by burning up money made by more successful endeavours in the organisation. Most large companies act this way, be it Google or less 'succesful' multinationals. </li>
-    <li>This new initiative is the one thing that can save our organisation, so we went all in. If this fails, we'll go bankrupt. Many organisations being here actually go bankrupt. There are exceptions of course (Angry Birds). But the worst examples cost lives because of cutting corners and pushing on at any cost.</li>
-  </ol>
-</p>
+<p>"Too big to fail" is a phrase used for large organisations for a few main reasons: </p>
+<ol>
+  <li>If this organisation fails, the whole economy will 'fail'. Think of large banks that had to be rescued by the government in various countries. </li>
+  <li>If any initiative in this organisation fails, we can keep it afloat by burning up money made by more successful endeavours in the organisation. Most large companies act this way, be it Google or less 'succesful' multinationals. </li>
+  <li>This new initiative is the one thing that can save our organisation, so we went all in. If this fails, we'll go bankrupt. Many organisations being here actually go bankrupt. There are exceptions of course (Angry Birds). But the worst examples cost lives because of cutting corners and pushing on at any cost.</li>
+</ol>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p>Have you ever felt like being part of an organisation or Product that was on fire, didn't have (enough) lifeboats, yet still pushed on at full speed towards an area full of large objects that will very likely break you? </p>
@@ -43,7 +42,7 @@ post_date: 2018-12-16 15:02:44
 <p>Don't be like the White Star Line. They built an unsinkable ship only to let it sail, on fire, at full speed into a bunch of icebergs. Proving that it was in fact not really unsinkable, as its special floatation features were damaged by said fire.</p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
-<p><em>PS a great article about the titanic and interesting insights into this historical tragedy that could and should have been prevented. </em><a href="https://medium.com/dialogue-and-discourse/the-titanic-was-on-fire-for-days-before-the-iceberg-hit-94fa26471dfa">https://medium.com/dialogue-and-discourse/the-titanic-was-on-fire-for-days-before-the-iceberg-hit-94fa26471dfa</a><em><br></em></p>
+<p><em>PS this post was inspired by great article about the Titanic revealing insights into its historical tragedy and how it could and should have been prevented. </em><a href="https://medium.com/dialogue-and-discourse/the-titanic-was-on-fire-for-days-before-the-iceberg-hit-94fa26471dfa">https://medium.com/dialogue-and-discourse/the-titanic-was-on-fire-for-days-before-the-iceberg-hit-94fa26471dfa</a><em><br></em></p>
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 <p><br></p>

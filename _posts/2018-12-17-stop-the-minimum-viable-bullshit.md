@@ -38,6 +38,6 @@ If you want to know more, here are some excellent articles:
 <ul>
  	<li><a href="http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html">MVP definition - Eric Ries</a></li>
  	<li><a href="https://apracticalwedding.com/minimum-viable-product/">MVP for non software Products or Services</a></li>
- 	<li>Hypothesis driven development</li>
- 	<li>Lean UX</li>
+ 	<li><a href="https://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/">Hypothesis driven development</a></li>
+ 	<li><a href="https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24">Lean UX &amp; Scrum</a></li>
 </ul>

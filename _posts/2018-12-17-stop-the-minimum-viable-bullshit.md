@@ -18,15 +18,15 @@ Why does this get me? People have taken a beautiful practice, and made it horrib
 The mis-use of the MVP practice had also led to new acronyms like MMF (minimum marketable feature), MLP (minimum lovable product) and many more.
 
 Lets's go back to the start. Eric Ries coined the term, so what is his definition. And what does it mean?
-<blockquote>First, a definition: the minimum viable product is that version of a new product which allows a team to collect the maximum amount of <a href="http://startuplessonslearned.blogspot.com/2009/04/validated-learning-about-customers.html">validated learning about customers</a> with the least effort.</blockquote>
-Above definition is from mr Ries himself in a blogpost titled: "<a href="http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html">Minimum Viable Product: a Guide</a>".
+<blockquote>First, a definition: the minimum viable product is that version of a new product which allows a team to collect the maximum amount of <a href="http://startuplessonslearned.blogspot.com/2009/04/validated-learning-about-customers.html">validated learning about customers</a> with the least effort.
+
+</blockquote>Above definition is from mr Ries himself in a blogpost titled: "<a href="http://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html">Minimum Viable Product: a Guide</a>".
 
 Let's zoom in. The purpose of the MVP is to create a new version of the Product, with the goal of:
 <ul>
  	<li>getting the maximum amount of validated learning</li>
  	<li>while investing the minimum amount of effort</li>
-</ul>
-The essential part here is to look at your current Product idea and investigate which assumptions you have before you can make the next step.
+</ul>The essential part here is to look at your current Product idea and investigate which assumptions you have before you can make the next step.
 
 When developing a new product, the most important thing to learn can be <em>whether you would have customers</em>, when you finally decide to build this product. But if you already have a product, then the same could go for the <em>potential usefulness of a new feature</em>. Or, if there is already a validated customer need and matching product that people are willing to pay for, the most important thing to learn may be: is that <em>your product</em>, at a <em>reasonable price</em>? Or, it could be <em>a simple a/b test</em> to decide which change to your existing product is <em>the biggest improvement</em>. All may be called MVP and that is what makes it confusing.
 
@@ -40,4 +40,6 @@ If you want to know more, here are some excellent articles:
  	<li><a href="https://apracticalwedding.com/minimum-viable-product/">MVP for non software Products or Services</a></li>
  	<li><a href="https://barryoreilly.com/2013/10/21/how-to-implement-hypothesis-driven-development/">Hypothesis driven development</a></li>
  	<li><a href="https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24">Lean UX &amp; Scrum</a></li>
+ 	<li><a href="https://medium.freecodecamp.org/what-the-hell-does-minimum-viable-product-actually-mean-anyway-7d8f6a110f38">Sequential MVP's explained with examples</a></li>
+ 	<li><a href="https://inc42.com/resources/the-true-nature-of-minimum-viable-product-aka-mvp/">Different types of experiment that could all be a 'minimum' product to validate a hypothesis</a></li>
 </ul>

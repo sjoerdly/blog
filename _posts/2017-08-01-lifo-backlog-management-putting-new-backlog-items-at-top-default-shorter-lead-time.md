@@ -8,7 +8,7 @@ author: Sjoerdly
 post_excerpt: ""
 layout: post
 permalink: >
-  https://sjoerdly.com/putting-new-backlog-items-at-the-top-by-default/
+  https://sjoerdly.com/lifo-backlog-management-putting-new-backlog-items-at-top-default-shorter-lead-time/
 published: true
 post_date: 2017-08-01 07:18:09
 ---

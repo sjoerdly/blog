@@ -50,5 +50,9 @@ post_date: 2016-07-29 17:22:51
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To summarize: As per the Scrum Guide, the responsibility for&nbsp;<strong>crafting a Sprint Goal</strong>&nbsp;is for the&nbsp;<strong>Scrum Team</strong>. It is however in large part of interest to the Product Owner to support this process by having clear business goals for the coming Sprint, which can also make ordering the Product Backlog a lot easier by providing&nbsp;<strong>Focus</strong>.</p>
+<p>To summarize: As per the Scrum Guide, the responsibility for <strong>crafting a Sprint Goal</strong> is for the <strong>Scrum Team</strong>. It is however in large part of interest to the Product Owner to support this process by having clear business goals for the coming Sprint, which can also make ordering the Product Backlog a lot easier by providing <strong>Focus</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em><a href="http://sjoerdly.tumblr.com/post/148144302107/sprint-goal-in-scrum-whose-responsibility-is-it">Previously published on sjoerdly.tumblr.com</a></em></p>
 <!-- /wp:paragraph -->

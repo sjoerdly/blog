@@ -5,14 +5,10 @@ author: Sjoerdly
 post_excerpt: ""
 layout: post
 permalink: >
-  https://sjoerdly.com/agile-happiness-pt-1-the-role-of-giving-helping-in-agile/
+  https://sjoerdly.com/role-giving-helping-agile/
 published: true
 post_date: 2016-07-15 17:36:07
 ---
-<!-- wp:heading -->
-<h2><strong>Intro</strong></h2>
-<!-- /wp:heading -->
-
 <!-- wp:paragraph -->
 <p>A while ago I stumbled upon a great initiative, called <a rel="noreferrer noopener" href="https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.actionforhappiness.org%2F&amp;t=YTI1NzRjMDcwMmQzOTNlOGI3M2VmMzY2NDdiZDJkNmEwYzQ2N2E1ZixvQkFqd1RpMA%3D%3D&amp;b=t%3A9bWr_sUaKYO7UZ4h6y05xA&amp;p=http%3A%2F%2Fsjoerdly.tumblr.com%2Fpost%2F147447347732%2Fagile-happiness-pt1-the-role-of-givinghelping&amp;m=1" target="_blank">Action for Happiness.</a> It is<a rel="noreferrer noopener" href="https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.actionforhappiness.org%2Fabout-us&amp;t=NDk0ZDIxMGNjNzcyMjlhZmJjNWViMGYxNWM5YWM4OTY0OTUxOTk1YyxvQkFqd1RpMA%3D%3D&amp;b=t%3A9bWr_sUaKYO7UZ4h6y05xA&amp;p=http%3A%2F%2Fsjoerdly.tumblr.com%2Fpost%2F147447347732%2Fagile-happiness-pt1-the-role-of-givinghelping&amp;m=1" target="_blank"> a movement of people committed to building a happier and more caring society.</a> Their ideas are based on scientific research and <a rel="noreferrer noopener" href="https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.actionforhappiness.org%2F10-keys-to-happier-living&amp;t=NGJlZmUwODVjMGQ4OTUwNDFjNDc0NDVjM2Y1YjM5N2M3NTQyZjJjMCxvQkFqd1RpMA%3D%3D&amp;b=t%3A9bWr_sUaKYO7UZ4h6y05xA&amp;p=http%3A%2F%2Fsjoerdly.tumblr.com%2Fpost%2F147447347732%2Fagile-happiness-pt1-the-role-of-givinghelping&amp;m=1" target="_blank">the acronym GREAT DREAM is used to communicate their 10 keys for happier living</a>. The 10 keys are: Giving, Relating, Excercising, Awareness, Trying Out, Direction, Resilience, Emotions, Acceptance &amp; Meaning. Being a Scrum Master and Agile Coach, happiness is something I’m always curious about. I see Happiness as one of the key elements we as coaches should care about in our teams and  ourselves. so I was immediately interested in the movement and have now decided to investigate potential matches or clashes between The concepts in the GREAT DREAM and Agile way of working (and Scrum in particular). Hopefully learning more about improving Happiness &amp; Agility in the process. Let’s start by looking at the first letter of the acronym: <em>Giving</em>. </p>
 <!-- /wp:paragraph -->

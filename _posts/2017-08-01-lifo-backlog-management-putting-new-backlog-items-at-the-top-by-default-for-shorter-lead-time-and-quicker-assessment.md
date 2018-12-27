@@ -3,7 +3,7 @@ ID: 465
 post_title: >
   LIFO Backlog management; Putting new
   backlog items at the top by default for
-  shorter lead time and quicker assessment
+  shorter lead time
 author: Sjoerdly
 post_excerpt: ""
 layout: post
@@ -21,7 +21,7 @@ post_date: 2017-08-01 09:30:08
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>My thoughts on this: since you naturally spend more time looking at the top of the backlog, new stuff that is put at the top (LIFO) has to be dealt with quicker, leading to shorter lead times and a cleaner backlog. Stuff that comes in and gets discarded is cleaned up earlier. New work is split up for minimum testable hypothesis and validation of value earlier, etc.</p>
+<p>My thoughts on this: since you naturally spend more time looking at the top of the backlog, new stuff that is put at the top (LIFO) has to be dealt with quicker, leading to shorter lead times and a cleaner backlog. Stuff that comes in and gets discarded is cleaned up earlier. New work is split up for minimum testable hypothesis and validation of value earlier, etc. AND delivered items can be validated to market response sooner. The only downside is that <em>potentially, </em>older work, already on the backlog, gets dusty and stuck hanging mid-to-low on the list. Fix this by having a small backlog of 50-100 items and regularly going through the entire list with a 'delete', 'unless we can explain potential value' attitude.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

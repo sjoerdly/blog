@@ -23,10 +23,6 @@ post_date: 2016-04-29 14:23:24
 <p>Although come to think about it, it does have a bit more focus than it used to have. Most of the stuff I like comes back to finding better ways of being, often working.&nbsp;</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>I have no special talents. I am only passionately curious.</p><cite>Albert Einstein</cite></blockquote>
-<!-- /wp:quote -->
-
 <!-- wp:paragraph -->
 <p>Combine this with my predisposition to help others (facilitate), this boils down to my intrinsic motivation, or drive:</p>
 <!-- /wp:paragraph -->
@@ -38,6 +34,10 @@ post_date: 2016-04-29 14:23:24
 <!-- wp:paragraph -->
 <p>This is what I get out of bed each day for. Cool stuff to realize.&nbsp;</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>I have no special talents. I am only passionately curious.</p><cite>Albert Einstein</cite></blockquote>
+<!-- /wp:quote -->
 
 <!-- wp:paragraph -->
 <p>What is&nbsp;<em>your</em>&nbsp;main drive? Your big WHY?</p>

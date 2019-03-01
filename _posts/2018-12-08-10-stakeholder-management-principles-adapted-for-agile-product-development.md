@@ -23,8 +23,12 @@ post_date: 2018-12-08 22:53:53
 <p>Before aiming to engage and influence stakeholders, it’s crucial to seek to understand the people you will be working with and relying on throughout the Product lifecycle. Collaborating &amp; sharing information with stakeholders is important, but it is equally important to first gather information about your stakeholders. Remember, as your product develops, so will your Stakeholder field and their engagement. <br></p>
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"id":429} -->
+<figure class="wp-block-image"><img src="https://sjoerdly.com/wp/wp-content/uploads/2018/11/stakeholdermap_nl-1024x682.jpg" alt="" class="wp-image-429"/><figcaption>Simple Stakeholder Map one-page (dutch)</figcaption></figure>
+<!-- /wp:image -->
+
 <!-- wp:paragraph -->
-<p>Stakeholder Mapping is a practice that is highly recommended.</p>
+<p>Stakeholder Mapping is a practice that is highly recommended. A goodblog to start with is Roman Pichler's '<a href="https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/">Getting Stakeholder Engagement Right</a>'.<br>If you really want some hands on experience, I'd love to have you in a one day workshop!<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -48,7 +52,7 @@ post_date: 2018-12-08 22:53:53
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>It is recommended to collaboratively create Stakeholder Canvases with your (5) key Stakeholders. Creating an empathy grid can give a broader overview of relevant Stakeholder wants &amp; needs for delivering Product Value. </p>
+<p>It is recommended to collaboratively create Stakeholder Canvases with your (~5) key Stakeholders. Creating an empathy grid can give a broader overview of relevant Stakeholder wants &amp; needs for delivering Product Value. Don't forget to include your Scrum Team in creating the canvas. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -142,6 +146,16 @@ post_date: 2018-12-08 22:53:53
 <!-- wp:paragraph -->
 <p>Whether you are a Product Owner, Product Team member or Agile manager, Stakeholder Management is an essential part of ensuring product success. Not in the least because your customer (user and/or buyer) is a key Stakeholder. The main difference between Project Stakeholder Management and Product Stakeholder Management is creating a more lasting collaboration and creating joint success in creating Product Value (two-way street), instead of approaching Stakeholders as just needing to be informed and kept satisfied (one-way) or at most helping to support <em>your</em> project success. <br></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Resources</h2>
+<!-- /wp:heading -->
+
+<!-- wp:core-embed/wordpress {"url":"https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/","type":"wp-embed","providerNameSlug":"roman-pichler","className":""} -->
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-roman-pichler"><div class="wp-block-embed__wrapper">
+https://www.romanpichler.com/blog/stakeholder-engagement-analysis-power-interest-grid/
+</div></figure>
+<!-- /wp:core-embed/wordpress -->
 
 <!-- wp:paragraph -->
 <p><br></p>

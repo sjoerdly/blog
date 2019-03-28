@@ -12,7 +12,7 @@ published: true
 post_date: 2019-03-28 15:02:01
 ---
 <!-- wp:paragraph -->
-<p>There is an art to dealing with undone work in Scrum. Some questions that pop up in Scrum Teams with undone work:</p>
+<p>There is an art to dealing with undone work in Scrum. Many questions that pop up in Scrum Teams with undone work relate to estimation:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -20,7 +20,7 @@ post_date: 2019-03-28 15:02:01
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->
-<p>These are valid questions with fierce advocates for either approach. I muyself have done both in the past. To help you answer these questions, let's look at four different ways to approach undone work estimation in Scrum. Then look at some underlying principles of Scrum, and evaluate what is the most helpful approach for you. As long as we agree that IF you use estimation and want do use Scrum in an effective way, the ONLY smart thing to do with undone work is to&nbsp;<strong>re-estimate the work remaining</strong>.</p>
+<p>These are valid questions with fierce advocates for either approach. I myself have done both in the past. To help you answer these questions, let's look at four different ways to approach undone work estimation in Scrum. Then look at some underlying principles of Scrum, and evaluate what is the most helpful approach for you. As long as we agree that IF you use estimation and want do use Scrum in an effective way, the ONLY smart thing to do with undone work is to <strong>re-estimate the work remaining</strong>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":630} -->

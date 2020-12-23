@@ -20,7 +20,7 @@ post_date: 2020-12-23 14:42:14
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>I was lucky to have the written translation on hand, so I could focus on the reading/speaking process without having to worry about the translations. the only trouble I had was which words to keep in english pronunciation  and which to speak in the dutch pronunciation. For instance Product is spelled the same, but pronounced differently: /ˈprɑː.dʌkt/ (US) versus /pr<a>o</a>ˈd<a>ʏ</a>kt/ (NL). There may be some subtle inconsistencies there.  </p>
+<p>I was lucky to have the written translation on hand, so I could focus on the reading/speaking process without having to worry about the translations. the only trouble I had was which words to keep in english pronunciation  and which to speak in the dutch pronunciation. For instance Product is spelled the same, but pronounced differently: /ˈprɑː.dʌkt/ (US) versus /proˈdʏkt/ (NL). There may be some subtle inconsistencies there.  </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":811,"sizeSlug":"large","linkDestination":"media"} -->

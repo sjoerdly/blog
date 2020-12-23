@@ -23,6 +23,10 @@ post_date: 2020-12-23 14:42:14
 <p>I was lucky to have the written translation on hand, so I could focus on the reading/speaking process without having to worry about the translations. the only trouble I had was which words to keep in english pronunciation  and which to speak in the dutch pronunciation. For instance Product is spelled the same, but pronounced differently: /ˈprɑː.dʌkt/ (US) versus /pr<a>o</a>ˈd<a>ʏ</a>kt/ (NL). There may be some subtle inconsistencies there.  </p>
 <!-- /wp:paragraph -->
 
+<!-- wp:image {"align":"center","id":811,"sizeSlug":"large","linkDestination":"media"} -->
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://sjoerdly.com/wp/wp-content/uploads/2020/12/Scrum-Gids-2020-Nederlands-Gesproken-Album-Art.png"><img src="https://sjoerdly.com/wp/wp-content/uploads/2020/12/Scrum-Gids-2020-Nederlands-Gesproken-Album-Art.png" alt="" class="wp-image-811"/></a><figcaption>Cover art for the spoken Scrum Gids 2020 </figcaption></figure></div>
+<!-- /wp:image -->
+
 <!-- wp:paragraph -->
 <p>So <a href="https://www.scrumfacilitators.nl/audio-products/">this spoken version of the Dutch Scrum Guide (Scrum Gids 2020)</a> was created incrementally and iteratively. I recorded small parts at a time and accepted a small overhead of packaging, recording and rendering extra parts to be able to release them as Podcast episodes. The added benefit was to learn much more about the software (I used Audacity for Mac) and how to set up the equipment to prevent most noise disturbances (although a ticking clock may be heard in some parts, I decided that was good enough for the first release). I even got to experiment with breathing styles. I learned that inhaling through my nose seems to generate less noticeable breathing sounds, but it is hard to change the habit of mouth breathing, especially in flu season. </p>
 <!-- /wp:paragraph -->

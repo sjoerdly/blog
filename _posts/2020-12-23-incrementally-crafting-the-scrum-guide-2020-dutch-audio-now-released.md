@@ -24,7 +24,7 @@ post_date: 2020-12-23 14:42:14
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":811,"sizeSlug":"large","linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://sjoerdly.com/wp/wp-content/uploads/2020/12/Scrum-Gids-2020-Nederlands-Gesproken-Album-Art.png"><img src="https://sjoerdly.com/wp/wp-content/uploads/2020/12/Scrum-Gids-2020-Nederlands-Gesproken-Album-Art.png" alt="" class="wp-image-811"/></a><figcaption>Cover art for the spoken Scrum Gids 2020 </figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://sjoerdly.com/wp/wp-content/uploads/2020/12/Scrum-Gids-2020-Nederlands-Gesproken-Album-Art.png"><img src="https://sjoerdly.com/wp/wp-content/uploads/2020/12/Scrum-Gids-2020-Nederlands-Gesproken-Album-Art.png" alt="" class="wp-image-811"/></a></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
